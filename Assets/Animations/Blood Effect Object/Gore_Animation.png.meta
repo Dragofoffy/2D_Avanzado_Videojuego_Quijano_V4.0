@@ -1,0 +1,1124 @@
+fileFormatVersion: 2
+guid: ccfe4485518d43b45960fe504d3f742a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8010018059748145088
+    second: Gore_Animation_0
+  - first:
+      213: 3260010127636869325
+    second: Gore_Animation_1
+  - first:
+      213: -7250682416824450547
+    second: Gore_Animation_2
+  - first:
+      213: -7582495386372007409
+    second: Gore_Animation_3
+  - first:
+      213: -109793106140000482
+    second: Gore_Animation_4
+  - first:
+      213: -4917303327520901850
+    second: Gore_Animation_5
+  - first:
+      213: -3145854053749101072
+    second: Gore_Animation_6
+  - first:
+      213: -4085661386799206160
+    second: Gore_Animation_7
+  - first:
+      213: 8504259588813997075
+    second: Gore_Animation_8
+  - first:
+      213: 9096951317385113271
+    second: Gore_Animation_9
+  - first:
+      213: -8381416413671067992
+    second: Gore_Animation_10
+  - first:
+      213: -9076950883867883179
+    second: Gore_Animation_11
+  - first:
+      213: -5753112680146010432
+    second: Gore_Animation_12
+  - first:
+      213: -1615789027212958000
+    second: Gore_Animation_13
+  - first:
+      213: -3261233244372379196
+    second: Gore_Animation_14
+  - first:
+      213: 4472340780575567828
+    second: Gore_Animation_15
+  - first:
+      213: 7209083862338463493
+    second: Gore_Animation_16
+  - first:
+      213: -8319747684442651040
+    second: Gore_Animation_17
+  - first:
+      213: 235274997594645923
+    second: Gore_Animation_18
+  - first:
+      213: 4450622697355865536
+    second: Gore_Animation_19
+  - first:
+      213: 789310567402555793
+    second: Gore_Animation_20
+  - first:
+      213: 8306297108508387913
+    second: Gore_Animation_21
+  - first:
+      213: 8529557125827200704
+    second: Gore_Animation_22
+  - first:
+      213: -1171721807966628512
+    second: Gore_Animation_23
+  - first:
+      213: -1896273393646102931
+    second: Gore_Animation_24
+  - first:
+      213: 7720884966501317967
+    second: Gore_Animation_25
+  - first:
+      213: 7475826650941082055
+    second: Gore_Animation_26
+  - first:
+      213: 6009365639468468594
+    second: Gore_Animation_27
+  - first:
+      213: 7647447718142877195
+    second: Gore_Animation_28
+  - first:
+      213: -5691474447353648878
+    second: Gore_Animation_29
+  - first:
+      213: -159093421640805565
+    second: Gore_Animation_30
+  - first:
+      213: 6268789524493663388
+    second: Gore_Animation_31
+  - first:
+      213: -2984362515782508698
+    second: Gore_Animation_32
+  - first:
+      213: 5013091353202577152
+    second: Gore_Animation_33
+  - first:
+      213: -4210737642069197230
+    second: Gore_Animation_34
+  - first:
+      213: 74415594599605115
+    second: Gore_Animation_35
+  - first:
+      213: 490393518936688284
+    second: Gore_Animation_36
+  - first:
+      213: 3510726634460633885
+    second: Gore_Animation_37
+  - first:
+      213: 8602994299469597155
+    second: Gore_Animation_38
+  - first:
+      213: 7541400464461374172
+    second: Gore_Animation_39
+  - first:
+      213: -5138732073202427073
+    second: Gore_Animation_40
+  - first:
+      213: 9024041746825328755
+    second: Gore_Animation_41
+  - first:
+      213: 1406045170437594210
+    second: Gore_Animation_42
+  - first:
+      213: 7687986002983919050
+    second: Gore_Animation_43
+  - first:
+      213: 3731191183051178427
+    second: Gore_Animation_44
+  - first:
+      213: -5827260187050557230
+    second: Gore_Animation_45
+  - first:
+      213: 5269439314990781955
+    second: Gore_Animation_46
+  - first:
+      213: 6452128807830449150
+    second: Gore_Animation_47
+  - first:
+      213: 6127077519236108965
+    second: Gore_Animation_48
+  - first:
+      213: 8597499064902241281
+    second: Gore_Animation_49
+  - first:
+      213: -7772712847360209598
+    second: Gore_Animation_50
+  - first:
+      213: 4721760568445283619
+    second: Gore_Animation_51
+  - first:
+      213: -4028043395838589813
+    second: Gore_Animation_52
+  - first:
+      213: 6338359601300634325
+    second: Gore_Animation_53
+  - first:
+      213: -1932249207968414464
+    second: Gore_Animation_54
+  - first:
+      213: 8882683356750445207
+    second: Gore_Animation_55
+  - first:
+      213: 1650559925984681608
+    second: Gore_Animation_56
+  - first:
+      213: 1778147322694253014
+    second: Gore_Animation_57
+  - first:
+      213: -6379759948110611311
+    second: Gore_Animation_58
+  - first:
+      213: -3487101850519265509
+    second: Gore_Animation_59
+  - first:
+      213: -3691544899687404335
+    second: Gore_Animation_60
+  - first:
+      213: 731238690644321899
+    second: Gore_Animation_61
+  - first:
+      213: 2794042078068505273
+    second: Gore_Animation_62
+  - first:
+      213: 5659091477865642828
+    second: Gore_Animation_63
+  - first:
+      213: -3326877710805510876
+    second: Gore_Animation_64
+  - first:
+      213: -1410001039055327501
+    second: Gore_Animation_65
+  - first:
+      213: -4490264907049310020
+    second: Gore_Animation_66
+  - first:
+      213: 6798951822544257989
+    second: Gore_Animation_67
+  - first:
+      213: 7782649463247362294
+    second: Gore_Animation_68
+  - first:
+      213: -7178885996008303996
+    second: Gore_Animation_69
+  - first:
+      213: -7123245083244310839
+    second: Gore_Animation_70
+  - first:
+      213: -8426696090309198434
+    second: Gore_Animation_71
+  - first:
+      213: 7592674421507113985
+    second: Gore_Animation_72
+  - first:
+      213: -9050401658813399630
+    second: Gore_Animation_73
+  - first:
+      213: -2733411135940833164
+    second: Gore_Animation_74
+  - first:
+      213: -3149123527876218638
+    second: Gore_Animation_75
+  - first:
+      213: -8338421681767778092
+    second: Gore_Animation_76
+  - first:
+      213: 93224801136775019
+    second: Gore_Animation_77
+  - first:
+      213: 3865374679885684066
+    second: Gore_Animation_78
+  - first:
+      213: 3429844062479842519
+    second: Gore_Animation_79
+  - first:
+      213: -8421854913628057032
+    second: Gore_Animation_80
+  - first:
+      213: 2193459623572249118
+    second: Gore_Animation_81
+  - first:
+      213: -1457798006713578585
+    second: Gore_Animation_82
+  - first:
+      213: 8189049987042793096
+    second: Gore_Animation_83
+  - first:
+      213: -1889185296650455900
+    second: Gore_Animation_84
+  - first:
+      213: -6626331975539365914
+    second: Gore_Animation_85
+  - first:
+      213: 6316327782935916970
+    second: Gore_Animation_86
+  - first:
+      213: -1120506729554602681
+    second: Gore_Animation_87
+  - first:
+      213: -3315711204828243697
+    second: Gore_Animation_88
+  - first:
+      213: -3677858882797105226
+    second: Gore_Animation_89
+  - first:
+      213: 6984420616857441568
+    second: Gore_Animation_90
+  - first:
+      213: -6363741548047725689
+    second: Gore_Animation_91
+  - first:
+      213: 7395266936296684689
+    second: Gore_Animation_92
+  - first:
+      213: -8970732341367067033
+    second: Gore_Animation_93
+  - first:
+      213: 2692720275145268019
+    second: Gore_Animation_94
+  - first:
+      213: 7401836074247681043
+    second: Gore_Animation_95
+  - first:
+      213: 3690151415132644208
+    second: Gore_Animation_96
+  - first:
+      213: -4808442447993037522
+    second: Gore_Animation_97
+  - first:
+      213: -648743025322050632
+    second: Gore_Animation_98
+  - first:
+      213: 695165829889526164
+    second: Gore_Animation_99
+  - first:
+      213: 7963895035102041005
+    second: Gore_Animation_100
+  - first:
+      213: 6416213851199541192
+    second: Gore_Animation_101
+  - first:
+      213: -4038836094093658225
+    second: Gore_Animation_102
+  - first:
+      213: -3886237098447920373
+    second: Gore_Animation_103
+  - first:
+      213: 5645727434931087363
+    second: Gore_Animation_104
+  - first:
+      213: 3839258913947279391
+    second: Gore_Animation_105
+  - first:
+      213: -1104248364117914173
+    second: Gore_Animation_106
+  - first:
+      213: 5312121306718794775
+    second: Gore_Animation_107
+  - first:
+      213: 2248652856836981981
+    second: Gore_Animation_108
+  - first:
+      213: -3480555009621721637
+    second: Gore_Animation_109
+  - first:
+      213: 1147803412394376111
+    second: Gore_Animation_110
+  - first:
+      213: 2856431864144914668
+    second: Gore_Animation_111
+  - first:
+      213: 5877667484936485852
+    second: Gore_Animation_112
+  - first:
+      213: -7377121478622960180
+    second: Gore_Animation_113
+  - first:
+      213: 6204961546698287975
+    second: Gore_Animation_114
+  - first:
+      213: 2111474550940123216
+    second: Gore_Animation_115
+  - first:
+      213: -7091337545026719277
+    second: Gore_Animation_116
+  - first:
+      213: -6532212555470481444
+    second: Gore_Animation_117
+  - first:
+      213: 2285085472344147156
+    second: Gore_Animation_118
+  - first:
+      213: -279378708324312477
+    second: Gore_Animation_119
+  - first:
+      213: -6807205798656354426
+    second: Gore_Animation_120
+  - first:
+      213: -5459857810734684746
+    second: Gore_Animation_121
+  - first:
+      213: 3104028401595204198
+    second: Gore_Animation_122
+  - first:
+      213: -4339860497420290235
+    second: Gore_Animation_123
+  - first:
+      213: 3027725174704704379
+    second: Gore_Animation_124
+  - first:
+      213: 4684634234788544013
+    second: Gore_Animation_125
+  - first:
+      213: -6624099897261410265
+    second: Gore_Animation_126
+  - first:
+      213: -3802765770021347813
+    second: Gore_Animation_127
+  - first:
+      213: -6166938705601336898
+    second: Gore_Animation_128
+  - first:
+      213: -2148715671982609216
+    second: Gore_Animation_129
+  - first:
+      213: 751509059924756998
+    second: Gore_Animation_130
+  - first:
+      213: 3751178841040312104
+    second: Gore_Animation_131
+  - first:
+      213: 8097867244565254033
+    second: Gore_Animation_132
+  - first:
+      213: -137409213427751856
+    second: Gore_Animation_133
+  - first:
+      213: -605847092235873726
+    second: Gore_Animation_134
+  - first:
+      213: -2420138850907181033
+    second: Gore_Animation_135
+  - first:
+      213: -7132275742856394482
+    second: Gore_Animation_136
+  - first:
+      213: -8703761153070848270
+    second: Gore_Animation_137
+  - first:
+      213: 8970683813892702546
+    second: Gore_Animation_138
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gore_Animation_3
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 634
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c770c78cfc492f60800000000000000
+      internalID: 8010018059748145088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore_Animation_4
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 618
+        width: 82
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d020206f1c6606b90800000000000000
+      internalID: -7250682416824450547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore_Animation_5
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 609
+        width: 109
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a1240be9095c690800000000000000
+      internalID: -7582495386372007409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore_Animation_6
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 616
+        width: 88
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62535463daa32cbb0800000000000000
+      internalID: -4917303327520901850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore_Animation_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 648
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdef03d76ea754d0800000000000000
+      internalID: -3145854053749101072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore_Animation_2
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 642
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0bd4f8d90dc47c0800000000000000
+      internalID: -4085661386799206160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore_Animation_9
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 416
+        width: 121
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c95d7b94a5cdb2d0800000000000000
+      internalID: -3261233244372379196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore_Animation_10
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 407
+        width: 140
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199cd7377c134fa00800000000000000
+      internalID: 789310567402555793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore_Animation_11
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 412
+        width: 126
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c60550b3031f5670800000000000000
+      internalID: 8529557125827200704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore_Animation_12
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 418
+        width: 133
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065129449353dbfe0800000000000000
+      internalID: -1171721807966628512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore_Animation_7
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 427
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6613b635651fa5e0800000000000000
+      internalID: -1896273393646102931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore_Animation_8
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 422
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9cdbbfab87fb760800000000000000
+      internalID: 7475826650941082055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore_Animation_17
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 218
+        width: 123
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd180a798631ba60800000000000000
+      internalID: 7687986002983919050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore_Animation_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 220
+        width: 130
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1c5debc9ad7c330800000000000000
+      internalID: 3731191183051178427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore_Animation_14
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 218
+        width: 135
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb6cc347f09a8950800000000000000
+      internalID: 6452128807830449150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore_Animation_15
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 217
+        width: 121
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24dcaffc8d6c12490800000000000000
+      internalID: -7772712847360209598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore_Animation_16
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 219
+        width: 115
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6660e107b1e52a00800000000000000
+      internalID: 731238690644321899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore_Animation_18
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 223
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19cb725c81441a660800000000000000
+      internalID: 7395266936296684689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore_Animation_20
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 44
+        width: 68
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242d31f87499797f0800000000000000
+      internalID: -605847092235873726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore_Animation_19
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 33
+        width: 113
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251cb6766654e7c70800000000000000
+      internalID: 8970683813892702546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gore_Animation_21
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 68
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f23fbd2d60011429fc635005b56d33
+      internalID: 8306297108508387913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f83f4c58611c10a41bb9e0a1f9af741e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":156.0,"y":256.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Gore_Animation_1: -3145854053749101072
+      Gore_Animation_10: 789310567402555793
+      Gore_Animation_100: 7963895035102041005
+      Gore_Animation_101: 6416213851199541192
+      Gore_Animation_102: -4038836094093658225
+      Gore_Animation_103: -3886237098447920373
+      Gore_Animation_104: 5645727434931087363
+      Gore_Animation_105: 3839258913947279391
+      Gore_Animation_106: -1104248364117914173
+      Gore_Animation_107: 5312121306718794775
+      Gore_Animation_108: 2248652856836981981
+      Gore_Animation_109: -3480555009621721637
+      Gore_Animation_11: 8529557125827200704
+      Gore_Animation_110: 1147803412394376111
+      Gore_Animation_111: 2856431864144914668
+      Gore_Animation_112: 5877667484936485852
+      Gore_Animation_113: -7377121478622960180
+      Gore_Animation_114: 6204961546698287975
+      Gore_Animation_115: 2111474550940123216
+      Gore_Animation_116: -7091337545026719277
+      Gore_Animation_117: -6532212555470481444
+      Gore_Animation_118: 2285085472344147156
+      Gore_Animation_119: -279378708324312477
+      Gore_Animation_12: -1171721807966628512
+      Gore_Animation_120: -6807205798656354426
+      Gore_Animation_121: -5459857810734684746
+      Gore_Animation_122: 3104028401595204198
+      Gore_Animation_123: -4339860497420290235
+      Gore_Animation_124: 3027725174704704379
+      Gore_Animation_125: 4684634234788544013
+      Gore_Animation_126: -6624099897261410265
+      Gore_Animation_127: -3802765770021347813
+      Gore_Animation_128: -6166938705601336898
+      Gore_Animation_129: -2148715671982609216
+      Gore_Animation_13: 3731191183051178427
+      Gore_Animation_130: 751509059924756998
+      Gore_Animation_131: 3751178841040312104
+      Gore_Animation_132: 8097867244565254033
+      Gore_Animation_133: -137409213427751856
+      Gore_Animation_135: -2420138850907181033
+      Gore_Animation_136: -7132275742856394482
+      Gore_Animation_137: -8703761153070848270
+      Gore_Animation_14: 6452128807830449150
+      Gore_Animation_15: -7772712847360209598
+      Gore_Animation_16: 731238690644321899
+      Gore_Animation_17: 7687986002983919050
+      Gore_Animation_18: 7395266936296684689
+      Gore_Animation_19: 8970683813892702546
+      Gore_Animation_2: -4085661386799206160
+      Gore_Animation_20: -605847092235873726
+      Gore_Animation_21: 8306297108508387913
+      Gore_Animation_25: 7720884966501317967
+      Gore_Animation_27: 6009365639468468594
+      Gore_Animation_28: 7647447718142877195
+      Gore_Animation_29: -5691474447353648878
+      Gore_Animation_3: 8010018059748145088
+      Gore_Animation_30: -159093421640805565
+      Gore_Animation_31: 6268789524493663388
+      Gore_Animation_32: -2984362515782508698
+      Gore_Animation_33: 5013091353202577152
+      Gore_Animation_34: -4210737642069197230
+      Gore_Animation_35: 74415594599605115
+      Gore_Animation_36: 490393518936688284
+      Gore_Animation_37: 3510726634460633885
+      Gore_Animation_38: 8602994299469597155
+      Gore_Animation_39: 7541400464461374172
+      Gore_Animation_4: -7250682416824450547
+      Gore_Animation_40: -5138732073202427073
+      Gore_Animation_41: 9024041746825328755
+      Gore_Animation_42: 1406045170437594210
+      Gore_Animation_45: -5827260187050557230
+      Gore_Animation_46: 5269439314990781955
+      Gore_Animation_48: 6127077519236108965
+      Gore_Animation_49: 8597499064902241281
+      Gore_Animation_5: -7582495386372007409
+      Gore_Animation_51: 4721760568445283619
+      Gore_Animation_52: -4028043395838589813
+      Gore_Animation_53: 6338359601300634325
+      Gore_Animation_54: -1932249207968414464
+      Gore_Animation_55: 8882683356750445207
+      Gore_Animation_56: 1650559925984681608
+      Gore_Animation_57: 1778147322694253014
+      Gore_Animation_58: -6379759948110611311
+      Gore_Animation_59: -3487101850519265509
+      Gore_Animation_6: -4917303327520901850
+      Gore_Animation_60: -3691544899687404335
+      Gore_Animation_62: 2794042078068505273
+      Gore_Animation_63: 5659091477865642828
+      Gore_Animation_64: -3326877710805510876
+      Gore_Animation_65: -1410001039055327501
+      Gore_Animation_66: -4490264907049310020
+      Gore_Animation_67: 6798951822544257989
+      Gore_Animation_68: 7782649463247362294
+      Gore_Animation_69: -7178885996008303996
+      Gore_Animation_7: -1896273393646102931
+      Gore_Animation_70: -7123245083244310839
+      Gore_Animation_71: -8426696090309198434
+      Gore_Animation_72: 7592674421507113985
+      Gore_Animation_73: -9050401658813399630
+      Gore_Animation_74: -2733411135940833164
+      Gore_Animation_75: -3149123527876218638
+      Gore_Animation_76: -8338421681767778092
+      Gore_Animation_77: 93224801136775019
+      Gore_Animation_78: 3865374679885684066
+      Gore_Animation_79: 3429844062479842519
+      Gore_Animation_8: 7475826650941082055
+      Gore_Animation_80: -8421854913628057032
+      Gore_Animation_81: 2193459623572249118
+      Gore_Animation_82: -1457798006713578585
+      Gore_Animation_83: 8189049987042793096
+      Gore_Animation_84: -1889185296650455900
+      Gore_Animation_85: -6626331975539365914
+      Gore_Animation_86: 6316327782935916970
+      Gore_Animation_87: -1120506729554602681
+      Gore_Animation_88: -3315711204828243697
+      Gore_Animation_89: -3677858882797105226
+      Gore_Animation_9: -3261233244372379196
+      Gore_Animation_90: 6984420616857441568
+      Gore_Animation_91: -6363741548047725689
+      Gore_Animation_93: -8970732341367067033
+      Gore_Animation_94: 2692720275145268019
+      Gore_Animation_95: 7401836074247681043
+      Gore_Animation_96: 3690151415132644208
+      Gore_Animation_97: -4808442447993037522
+      Gore_Animation_98: -648743025322050632
+      Gore_Animation_99: 695165829889526164
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
